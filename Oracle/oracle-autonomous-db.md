@@ -73,7 +73,7 @@ You can provide external access to your database through a client credentials wa
 1. Open up Tableau Desktop
 2. On the connect menu, select Oracle 
 3. Enter your connection information in the following window
-    * Server: <tns_name of server to connect to\>
+    * Server: <tns_name\* of server to connect to\>
     * Enter information to sign into server: username & password
     * Require SSL: check the box only
 4. Click Sign In
